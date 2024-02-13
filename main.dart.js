@@ -98895,7 +98895,7 @@ break
 case 6:case 1:return A.U(q,r)
 case 2:return A.T(o,r)}})
 return A.V($async$zQ,r)},
-I(a){return new A.xm(this.zQ("crypto_assets/"+this.c+".png"),new A.acc(this),null,t.rt)}}
+I(a){return new A.xm(this.zQ("assets/crypto_assets/"+this.c+".png"),new A.acc(this),null,t.rt)}}
 A.acc.prototype={
 $2(a,b){var s=b.b
 if(s==null){s=this.a.d
