@@ -98874,7 +98874,7 @@ var $async$zQ=A.X(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
 return A.a_($.rk().kg(0,a),$async$zQ)
-case 7:m=A.aMA("assets/"+a,n.d,null)
+case 7:m=A.aMA(a,n.d,null)
 q=m
 s=1
 break
