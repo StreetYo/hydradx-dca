@@ -98562,7 +98562,7 @@ I(a){var s,r,q=null,p=A.S(a).p3.w
 p=A.bu("HydraDX",q,q,q,q,p==null?q:p.bW(B.k),q,q)
 s=A.S(a).p3.x
 r=t.p
-return A.e0(A.b([new A.X9(42,42,new A.Hw("HydraDX-Logo.svg",q,q,q,q),q,q),new A.ci(B.NW,A.ds(A.b([p,A.bu("DCA",q,q,q,q,s==null?q:s.bW(B.k),q,q)],r),B.c0,B.F,B.K),q)],r),B.N,B.F,B.bV)}}
+return A.e0(A.b([new A.X9(42,42,new A.Hw("assets/HydraDX-Logo.svg",q,q,q,q),q,q),new A.ci(B.NW,A.ds(A.b([p,A.bu("DCA",q,q,q,q,s==null?q:s.bW(B.k),q,q)],r),B.c0,B.F,B.K),q)],r),B.N,B.F,B.bV)}}
 A.UB.prototype={
 I(a){var s=null
 return A.aRR(B.aiT,new A.ao2(a),A.wf(s,s,new A.bV(B.O,t.Il),s,s,s,s,s,s,s,s,s,s,s,s,new A.bV(new A.d8(A.BS(5),B.n),t.fj),s,s,s,s,s,s))}}
@@ -98590,7 +98590,7 @@ s=A.S(a).p3.r
 s=A.bu("Earn rewards by adding your referrer",p,p,p,p,s==null?p:s.bW(B.k),p,p)
 r=A.S(a).p3.z
 q=t.p
-return A.bE(p,A.ds(A.b([o,B.Ep,s,B.jx,A.kA(A.H6(A.ds(A.b([A.bu("If your account is not attached to a referrer, you are missing out. Add a referrer and you will receive a cashback on your own Omnipool trades. The higher the Tier of your referrer, the more rewards you will earn.",p,p,p,p,r==null?p:r.bW(B.Ks),p,p),B.jx,A.aMA("money.gif",p,p),B.jx,A.aT6(B.aiV,new A.ao0(),A.wf(p,p,new A.bV(B.O,t.Il),p,p,p,p,p,p,p,p,p,p,p,p,new A.bV(new A.d8(A.BS(5),B.n),t.fj),p,p,p,p,p,p))],q),B.N,B.F,B.K),p,p,p,p,B.Z),1)],q),B.c0,B.F,B.bV),B.l,B.pr,p,p,p,p,p,p,B.NT,p,p,p)},
+return A.bE(p,A.ds(A.b([o,B.Ep,s,B.jx,A.kA(A.H6(A.ds(A.b([A.bu("If your account is not attached to a referrer, you are missing out. Add a referrer and you will receive a cashback on your own Omnipool trades. The higher the Tier of your referrer, the more rewards you will earn.",p,p,p,p,r==null?p:r.bW(B.Ks),p,p),B.jx,A.aMA("assets/money.gif",p,p),B.jx,A.aT6(B.aiV,new A.ao0(),A.wf(p,p,new A.bV(B.O,t.Il),p,p,p,p,p,p,p,p,p,p,p,p,new A.bV(new A.d8(A.BS(5),B.n),t.fj),p,p,p,p,p,p))],q),B.N,B.F,B.K),p,p,p,p,B.Z),1)],q),B.c0,B.F,B.bV),B.l,B.pr,p,p,p,p,p,p,B.NT,p,p,p)},
 $S:154}
 A.ao0.prototype={
 $0(){return A.a8x("https://hydradx.io/DEVHEAD")},
@@ -98874,7 +98874,7 @@ var $async$zQ=A.X(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
 return A.a_($.rk().kg(0,a),$async$zQ)
-case 7:m=A.aMA(a,n.d,null)
+case 7:m=A.aMA("assets/"+a,n.d,null)
 q=m
 s=1
 break
@@ -98884,7 +98884,7 @@ break
 case 4:p=3
 k=o
 m=n.d
-m=A.aMA("crypto_assets/placeholder.png",m,m)
+m=A.aMA("assets/crypto_assets/placeholder.png",m,m)
 q=m
 s=1
 break
